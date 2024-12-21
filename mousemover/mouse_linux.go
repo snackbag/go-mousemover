@@ -2,7 +2,7 @@
 //go:build linux
 // +build linux
 
-package main
+package mousemover
 
 /*
 #cgo LDFLAGS: -lX11

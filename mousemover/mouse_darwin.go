@@ -2,7 +2,7 @@
 //go:build darwin
 // +build darwin
 
-package main
+package mousemover
 
 /*
 #cgo CFLAGS: -x objective-c

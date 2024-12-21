@@ -1,1 +1,1 @@
-module mouse-control
+module github.com/snackbag/go-mousemover
